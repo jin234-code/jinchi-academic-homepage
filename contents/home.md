@@ -2,15 +2,14 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+Jinchi is currently a junor in the Department of life Sciences at Shanghai University.
 
 #### Contact
 
-Email: user[at]fas.harvard.edu
+Email: jinchi99655@shu.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+B.E., Biopharmaceutical, School of Life Sciences, Shanghai University, 2023‑2027.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Cell Biology, Computational Biology, AI‑driven biological research, AI for Science (AIDD related applications)
