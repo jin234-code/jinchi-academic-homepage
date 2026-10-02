@@ -1,12 +1,10 @@
 
-- Outstanding Graduate Award (CUMT), 2025.
-
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- Outstanding Student of Shanghai University, Mar. 2026.
+  
+- Shanghai Municipal Third Prize, The 11th National Undergraduate Life Science Competition, Jul. 2026.
+  
+- National Encouragement Scholarship, Dec. 2025.
+  
+- National Third Prize, The 10th National Undergraduate Life Science Competition, Jul. 2025.
+  
+- Academic Excellence Scholarship, Dec. 2024.
