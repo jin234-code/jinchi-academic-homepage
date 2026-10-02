@@ -17,7 +17,7 @@ sections:
   - id: home
     nav: HOME
     title: Jin Chi&nbsp;|&nbsp;金池
-    avatar: static/assets/img/jinchi_photo.jpg
+    avatar: assets/img/jinchi_photo.jpg
     href: '#page-top' # Default to '#<id>' if not specified
   - id: publications
     nav: PUBLICATIONS
